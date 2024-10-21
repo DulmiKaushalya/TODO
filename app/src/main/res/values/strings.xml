@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="Note">Your Note</string>
+    <string name="Timer">Open Timer</string>
+    <string name="widget">Upcoming Tasks</string>
+    <string name="time">sec time left</string>
+    <string name="update_note">Update Your Note</string>
+    <string name="update_btn">Update</string>
+    <string name="Description">Note Description</string>
+    <string name="Title">Note Title</string>
+    <string name="ok">OK</string>
+    <string name="delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="Pick_Time">Pick Time</string>
+    <string name="Selected_Time">Selected Time</string>
+    <string name="Selected_Date">Selected Date</string>
+    <string name="Add_New_Notes">Add New Note</string>
+    <string name="Save">Save</string>
+    <string name="Enter_the_Description">Enter the Description</string>
+    <string name="Enter_the_Title">Enter the Title</string>
+
+</resources>

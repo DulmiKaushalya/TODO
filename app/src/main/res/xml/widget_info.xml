@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android">
+    <widget-category>home_screen</widget-category>
+    <update-period-minutes>1</update-period-minutes>
+    <initial-layout>@layout/widget_layout</initial-layout>
+</appwidget-provider>
